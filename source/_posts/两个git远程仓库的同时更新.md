@@ -87,7 +87,7 @@ vim post-receive
 
 git init --bare blog.git创建一个远程裸仓库
 
-然后新建一个配置文件post-receive，相当于指定工作空间吧
+然后新建一个配置文件post-receive，相当于指定工作空间
 
 ```
 #!/bin/sh

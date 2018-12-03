@@ -232,14 +232,14 @@ categories:
             }
 
         }
-```    
+```
 # API的一些简单说明
         执行预处理语句的API
         int executeUpdate(); --执行insert update delete语句.
         ResultSet executeQuery(); --执行select语句.
         boolean execute(); --执行select返回true 执行其他的语句返回false.
 # 后记
-        温故而知新。
-        
+        温故而知新
 
-        
+
+​        

@@ -10,7 +10,7 @@ categories:
 
 # SpringBoot的配置文件
 
-SpringBoot支持两种配置文件，一种是我们常用properties文件，另一种是yaml文件，properties配置文件的使用相信大家已经很熟悉了，在这里我们只讨论新增yaml配置文件。
+SpringBoot支持两种配置文件，一种是我们常用properties文件，另一种是yaml文件，properties配置文件的使用相信大家已经很熟悉了，在这里我们只讨论新增的yaml配置文件。
 
 SpringBoot已经默认配置文件的名称可以为(其中yml的后缀也可以改成yaml)：
 
